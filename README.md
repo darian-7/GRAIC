@@ -2,7 +2,8 @@
 
 GRAIC is a simulated vehicle race co-located with CPS-IOT Week 2023. GRAIC aims to bring together researchers in AI, planning, synthesis, and control to create a platform for comparing different algorithms for controlling vehicles in dynamic and uncertain environments. At runtime, the input to the controller will come from a perception oracle that will provide as input a local view of obstacles, lanes, and gates on the track near the vehicle. The tracks will have à priori unknown static and moving obstacles. The outputs from the controller (brake, throttle, and steering) will drive the vehicle. In some race categories, you will be provided a mathematical vehicle model, and in other categories you will be provided a black-box vehicle simulator. The perception and control interfaces will not change. 
 
-(./docs/GRAIC.gif)
+![Autonomous car simulaton](./docs/GRAIC.gif)
+
 
 
 ## Installation Setup Instructions
